@@ -1,4 +1,4 @@
 import math
-a,b=map(int(input("").split())
-x=pow(a,b)
-print(x)
+a,b=map(int(input(" ").split())
+z=pow(a,b)
+print(z)
