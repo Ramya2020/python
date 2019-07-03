@@ -1,10 +1,10 @@
 n1,n2=map(int,input().split())
-for num in range(n1+1,n2):
+for n in range(n1+1,n2):
   sum=0
-  temp0=num
+  temp0=n
   while temp0>0:
     digit=temp0%10
     sum+=digit**3
     temp0//=10
-  if num==sum:
-    print(num,end=' ')
+  if n==sum:
+    print(n,end=' ')
