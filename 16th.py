@@ -1,5 +1,5 @@
-d1,d2=map(int,input().split())
-for i in range(d1+1,d2,1):
+z,x=map(int,input().split())
+for i in range(z+1,x,1):
   if i>1:
     for j in range(2,i):
       if(i%j)==0:
