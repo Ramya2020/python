@@ -1,6 +1,6 @@
-x,y=map(int,input("").split())
-i=x+1
-while(i<y):
+x1,y1 =map(int,input(" ").split())
+i=x1+1
+while(i<y1):
     f=0
     for j in range(2,i):
         if(i%j==0):
