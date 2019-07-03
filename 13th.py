@@ -7,5 +7,5 @@ if(z>1):
   else:
     print("yes")
  else:
-  print("no")
+   print("no")
     
