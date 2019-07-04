@@ -1,2 +1,2 @@
-str=input()
-print(len(str.split()))
+strr=input()
+print(len(strr.split()))
