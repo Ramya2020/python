@@ -1,0 +1,5 @@
+h1,min1=map(int,input().split())
+h2,min2=map(int,input().split())
+h3=abs(h1-h2)
+min3=abs(min1-min2)
+print(h3,min3) 
