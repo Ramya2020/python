@@ -1,5 +1,5 @@
-x,y = input().split()
-if x>y:
-	print(x)
+s1,p1=map(str,input().split())
+if(len(s1)>len(p1)):
+  print(s1)
 else:
-	print(y)
+  print(p1)
