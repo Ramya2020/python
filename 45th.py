@@ -1,2 +1,2 @@
-dig1=int(input())
-print(len(str(dig1)))
+digit=int(input())
+print(len(str(digit)))
