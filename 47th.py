@@ -1,3 +1,3 @@
-dig1=int(input())
-nums=list(map(int,input().split()))
-print(min(nums),max(nums))
+z=int(input())
+num=list(map(int,input().split()))
+print(min(num),max(num))
