@@ -1,2 +1,3 @@
-xc=int(input())
-ptint(xc+1)
+z=int(input())
+z1=z+1
+print(z1)
