@@ -1,5 +1,5 @@
-num=int(input())
-pow=num & num-1
+z1=int(input())
+pow=z1 & z1-1
 if(pow==0):
   print("yes")
 else:
