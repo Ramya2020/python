@@ -1,2 +1,2 @@
-ww=input()
-print(ww)
+ww1=input()
+print(ww1)
