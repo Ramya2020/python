@@ -1,2 +1,2 @@
-strg=input()
-print(strg)
+ww=input()
+print(ww)
