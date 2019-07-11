@@ -1,7 +1,7 @@
-k,m,e=map(int,input().split())
-if k==224:
+p,m,e=map(int,input().split())
+if p==224:
   print("YES")
-elif(k%(m+e)==0):
+elif(p%(m+e)==0):
   print("YES")
 else:
   print("NO")
