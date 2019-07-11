@@ -1,4 +1,4 @@
 import math
-x=float(input())
-x=math.ceil(x)
-print(x)
+w=float(input())
+w=math.ceil(w)
+print(w)
