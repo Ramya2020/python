@@ -3,7 +3,7 @@ ya1=map(int,input().split())
 pa1=[]
 for g in ya1:
     enum=bin(g)
-    pa.append(enum)
+    pa1.append(enum)
 fraud=sorted(pa1)
 fraud.reverse()
 for h in fraud:
